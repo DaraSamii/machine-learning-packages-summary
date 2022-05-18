@@ -3,8 +3,8 @@
 ## fastai summary
  
 * vision
- * classification
- * segmentation
+    * classification
+    * segmentation
 
 * nlp
  * languege model
