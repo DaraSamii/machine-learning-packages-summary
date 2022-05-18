@@ -3,14 +3,12 @@
 ## fastai summary
  
 * vision
-
->>
-* classification
-* segmentation
+ * classification
+ * segmentation
 
 * nlp
-** languege model
-** text classification
+ * languege model
+ * text classification
 * tabular
 
 * learners
