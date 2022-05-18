@@ -7,10 +7,13 @@
     * segmentation
 
 * nlp
- * languege model
- * text classification
+   * languege model
+   * text classification
 * tabular
 
 * learners
 * metrics
 
+## Featuretools
+
+## EvalML
